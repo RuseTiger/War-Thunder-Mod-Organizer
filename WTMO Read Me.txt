@@ -1,0 +1,27 @@
+Hello everyone!
+
+This is the War Thunder Mod Organizer, an example variant of the Universal Mod Organizer project.
+
+Special thanks to the Reddit python community and GTG Discord team. This would not have been possible without your help!
+
+- Note this is a release version of the mod organizer - HOWEVER:
+- Current version needs proof reading and major critics as well
+- as a mod deploy and retract code block/ui elements which still
+- needs some testing to get it right, plus a splash screen.
+
+Thank you for downloading and have fun!
+
+If you have any issues to report, please feel free to make a post on GitHub:
+https://github.com/RuseTigerDev/War-Thunder-Mod-Organizer/issues
+
+Windows
+pyinstaller --onefile --windowed --name WarThunderModOrganizer --icon=WTMO.ico --add-data "War Thunder Mod Manager full logo Color.png;." --add-data "WTMO.ico;." WTMO_-_Release_V1.py
+pyinstaller --onefile --windowed --name "WTMO" --icon="WTMO.ico" --add-data "WarThunderModManagerFullLogoColor.png;." --add-data "WTMO.ico;." "WTMO_-_Release_V1.py"
+pyinstaller --onefile --windowed --name "WTMO" --icon="WTMO.ico" --add-data "WarThunderModManagerFullLogoColor.png;." --add-data "WTMO.ico;." --hidden-import=PyQt6 --hidden-import=PyQt6.QtWebEngineWidgets "WTMO_-_Release_V1.py"
+
+Known Good: PYINSTALL COMMAND USE THIS ONE FOR WINDOWS:
+pyinstaller --onefile --windowed --name WTMO --icon=WTMO.ico --add-data "WarThunderModManagerFullLogoColor.png;." --add-data "WTMO.ico;." --hidden-import=pkgutil --collect-submodules PyQt6 --add-data "C:\Users\NIMA\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\PyQt6;PyQt6" --noconfirm WTMO_-_Release_V1.py
+
+MacOS
+pyinstaller --onefile --windowed --name WarThunderModOrganizer --icon=WTMO.ico --add-data "War Thunder Mod Manager full logo Color.png:." --add-data "WTMO.ico:." WTMO_-_Release_V1.py
+
