@@ -1,6 +1,9 @@
 # War-Thunder-Mod-Organizer
-This is a Mod Organizer developed for War Thunder and a part of the U.M.O. project.
+This is the War Thunder Mod Organizer, an and a part of the U.M.O. project.
 
+Special thanks to the Reddit python community and GTG Discord team. This would not have been possible without your help!
+
+RELEASE VERSION 1.0:
 On the repository you can view the code and artwork for the project as desired.
 
 Please refer to the "Releases" tab on the right hand side of the repository if you wish to download the full program. 
