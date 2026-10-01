@@ -30,6 +30,7 @@ Now that the mod organizer if open click on "Root Folder" button and follow the 
 
 Start Downloading mods!
 
+INSTALLATION WITH EXPLANATIONS:
 
 1) Navigate to the Releases tab on the right hand side of this GitHub page and left click on " WTMO-Release-1-ZIP-File " 
 (or click this link: https://github.com/RuseTiger/War-Thunder-Mod-Organizer )
