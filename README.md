@@ -14,9 +14,9 @@ To be supported: MacOS, Linux
 Thank you for visiting and I hope this project helps you in all your future modding endeavors.
 
 INSTALLATION:
-
+_____
 TLDWR:
-Donwload " WTMO-Release-1-ZIP-File " 
+Download " WTMO-Release-1-ZIP-File " 
 
 Unzip " WTMO-Release-1-ZIP-File " 
 
@@ -29,7 +29,7 @@ Wait for the mod organizer to open (If windows defender blocks you, click "more 
 Now that the mod organizer if open click on "Root Folder" button and follow the on screen prompts.
 
 Start Downloading mods!
-
+______________________________
 INSTALLATION WITH EXPLANATIONS:
 
 1) Navigate to the Releases tab on the right hand side of this GitHub page and left click on " WTMO-Release-1-ZIP-File " 
