@@ -26,7 +26,7 @@ Double click on " WTMO "
 
 Wait for the mod organizer to open (If windows defender blocks you, click "more info" and "run anyway", windows defender shouldn't flag it in the future)
 
-Now that the mod organizer if open click on "Root Folder" button and follow the on screen prompts.
+Now that the mod organizer if open click on "Find Root Folder" button and follow the on screen prompts.
 
 Start Downloading mods!
 ______________________________
@@ -58,7 +58,7 @@ INSTALLATION WITH EXPLANATIONS:
 
 7) Please double left click on the WTMO.exe file
 
-8) The War Thunder Mod Organizer will now open, please left click on the "Root Folder" button in the top left-hand side of the application window and follow the onscreen prompts for setting up the organizer.
+8) The War Thunder Mod Organizer will now open, please left click on the "Find Root Folder" button in the top left-hand side of the application window and follow the onscreen prompts for setting up the organizer.
 
 9) Thank you for your time and I hope you enjoy the Mod Organizer!
 
