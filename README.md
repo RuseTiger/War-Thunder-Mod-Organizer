@@ -14,6 +14,7 @@ To be supported: MacOS, Linux
 Thank you for visiting and I hope this project helps you in all your future modding endeavors.
 
 INSTALLATION:
+https://youtu.be/-TLcpnzMq5E
 _____
 TLDWR:
 Download " WTMO-Release-1-ZIP-File " 
