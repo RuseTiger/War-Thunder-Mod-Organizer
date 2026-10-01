@@ -15,6 +15,15 @@ Thank you for visiting and I hope this project helps you in all your future modd
 
 INSTALLATION:
 
+TLDWR:
+Donwload " WTMO-Release-1-ZIP-File " 
+Unzip " WTMO-Release-1-ZIP-File " 
+Open the WTMO-Release-1 folder and then open " dist "
+Double click on " WTMO "
+Wait for the mod organizer to open (If windows defender blocks you, click "more info" and "run anyway", windows defender shouldn't flag it in the future)
+Now that the mod organizer if open click on "Root Folder" button and follow the on screen prompts.
+Start Downloading mods!
+
 1) Navigate to the Releases tab on the right hand side of this GitHub page and left click on " WTMO-Release-1-ZIP-File " 
 (or click this link: https://github.com/RuseTiger/War-Thunder-Mod-Organizer )
 
