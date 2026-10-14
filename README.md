@@ -3,6 +3,11 @@ This is the War Thunder Mod Organizer, and a part of the U.M.O. project.
 
 Special thanks to the Reddit python community and GTG Discord team. This would not have been possible without your help!
 
+RELEASE VERSION 1.2:
+On the repository you can view the code and artwork for the project as desired.
+
+Please refer to the "Releases" tab on the right hand side of the repository if you wish to download the full program. (See Install Instructions Below)
+
 RELEASE VERSION 1.0:
 On the repository you can view the code and artwork for the project as desired.
 
