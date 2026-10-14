@@ -41,9 +41,11 @@ https://github.com/RuseTiger/War-Thunder-Mod-Organizer/releases/tag/RELEASE-1.2
 Deployable mods Variant
 https://github.com/RuseTiger/War-Thunder-Mod-Organizer/releases/tag/RELEASE-DEPLOYABLE-V1.2
 
+2) Note that your web browser may give you a warning such as "WTMO.exe isn't downloaded often" and in order to keep the file you must click "Keep" (this may be hidden by 3 dots which you will need to left click on first then click keep) and you will see either a new popup with text such as "Make sure you trust WTMO.exe" with a delete button and an arrow pointed down next to that button, left click on the arrow and then left click on "keep anyway" this is a safety feature in browsers to try and prevent you from accidentally downloading files you don't actually want sitting on your PC and will happen before your windows defender or anti-virus has to contend with the file, this is a good thing but it may not always popup, so I am noting it here in case it does and I'll be showing it in the video installation guide as well.
+
 3) A new page will open and you will see 3 files in the middle of your screen: WTMO.exe, source code (zip) and source code (tar), left click on "WTMO.exe"
 
-   2.1) A popup may appear asking where you would like to save the .exe file, on the left of this popup you will have options such as: Desktop, Downloads, Documents, etc
+   3.1) A popup may appear asking where you would like to save the .exe file, on the left of this popup you will have options such as: Desktop, Downloads, Documents, etc
         Please select "downloads" and then click save in the bottom right of the popup.
 
 4) The program will now begin downloading, the file is about 334-MB so this can take a few minutes (though this does depend on your internet speed)
