@@ -29,7 +29,7 @@ ______________________________
 INSTALLATION WITH EXPLANATIONS:
 
 1) Navigate to the Releases tab on the right hand side of this GitHub page and left click on " WTMO-RELEASE V1.2 " or click on " Releases " to open a new page and then select either the standard variant of WTMO " WTMO-RELEASE V1.2 " or the deployable mods variant " WTMO-RELEASE-DEPLOYABLE-MODS-V1.2 "
-(or click these links respectively:
+(or click these links respectively: \n
 https://github.com/RuseTiger/War-Thunder-Mod-Organizer/releases/tag/RELEASE-1.2   /   https://github.com/RuseTiger/War-Thunder-Mod-Organizer/releases/tag/RELEASE-DEPLOYABLE-V1.2)
 
 2) A new page will open and you will see 3 files in the middle of your screen: WTMO.exe, source code (zip) and source code (tar), left click on "WTMO.exe"
