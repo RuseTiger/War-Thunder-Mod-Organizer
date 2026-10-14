@@ -54,6 +54,7 @@ https://github.com/RuseTiger/War-Thunder-Mod-Organizer/releases/tag/RELEASE-DEPL
 9)  Thank you for your time and I hope you enjoy the Mod Organizer!
 
 
+______________________________
 INSTALLATION OF VERSION 1.0:
 https://youtu.be/-TLcpnzMq5E
 _____
