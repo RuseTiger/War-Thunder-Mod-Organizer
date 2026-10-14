@@ -16,7 +16,7 @@ Thank you for visiting and I hope this project helps you in all your future modd
 INSTALLATION OF VERSION 1.2
 _____
 TLDWR:
-Download the WTMO.exe from either " WTMO-RELEASE V1.2 " or " WTMO-RELEASE-DEPLOYABLE-MODS-V1.2 " 
+Download the WTMO.exe from either " WTMO-RELEASE V1.2 " / " WTMO-RELEASE-DEPLOYABLE-MODS-V1.2 " 
 
 Double-left click on the downloaded executable " WTMO "
 
